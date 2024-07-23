@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+fastapi-env/
+
+# Alembic migrations
+# alembic/versions/
+
+# Environment variables
+# .env
+
+# VS Code settings
+.vscode/
